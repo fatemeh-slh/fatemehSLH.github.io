@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+# Fatemeh Saleh
+### Research Fellow at Australian Centre for Robotic Vision and Australian National University
 
-You can use the [editor on GitHub](https://github.com/fatemehSLH/fatemehSLH.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatemehSLH/fatemehSLH.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fatemeh is a Research Fellow of the Australian Centre for Robotic Vision (ACRV) and the Australian National University (ANU), where she is working with Professor Stephen Gould. She is now working on weakly-supervised and unsupervised video understanding. Prior to that, she was a PhD student at Australian National University and Data61-CSIRO, working on weakly-supervised semantic segmentation of images and videos under supervisions of Lars Petersson, Mathieu Salzmann, Jose M. Alvarez, and Stephen Gould. She was also a deep learning research engineering intern at Qualcomm AI Research, Amsterdam, working on self-supervised video representation learning. Prior to that, Fatemeh was working in computer vision industry for more than two years. She received her M.Sc. degree in AI from Sharif University of Technology and B.Sc. in Software Engineering from Isfahan University of Technology. Her research interests include but not limited to Machine Learning, Unsupervised and Weakly-supervised Learning, Computer Vision, Deep Learning, Video Understanding, Visual Scene Understanding.
